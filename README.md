@@ -1,2 +1,2 @@
 # polar_tutorial
-pandasからpolarへの移行のためのチュートリアル
+pandasからpolarsへの移行のためのチュートリアル
